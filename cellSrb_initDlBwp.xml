@@ -2,7 +2,6 @@
     <cellGroupId>0</cellGroupId>
     <rlc-BearerToAddModList>
         <RLC-BearerConfig>
-            <logicalChannelIdentity>2</logicalChannelIdentity>
                 <srb-Identity>2</srb-Identity>
             </servedRadioBearer>
             <rlc-Config>
