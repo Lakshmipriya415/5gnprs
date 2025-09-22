@@ -3,7 +3,6 @@
     <rlc-BearerToAddModList>
         <RLC-BearerConfig>
             <logicalChannelIdentity>2</logicalChannelIdentity>
-            <servedRadioBearer>
                 <srb-Identity>2</srb-Identity>
             </servedRadioBearer>
             <rlc-Config>
